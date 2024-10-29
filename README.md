@@ -1,1 +1,2 @@
+#commands to run DINO
 
