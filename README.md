@@ -13,7 +13,7 @@ This code utilizes Colab's features (like free GPUs), making it Colab-specific a
 3.Install all dependencies.[!conda install -c pytorch pytorch torchvision
 ][!pip install -r /content/DINO/requirements.txt][!pip install torch torchvision timm gdown termcolor addict yapf pycocotools scipy]
 
-4.Upload your dataset zip-file if working on platform like collab.
+4.Upload your dataset zip-file if working on platform like colab.
 
 5.Unzip your file using python script :
 import zipfile
@@ -36,7 +36,7 @@ os.listdir(extracted_folder)
 
 0. Fine-tune model in config->DINO_4scale.py . For now imited access to high-performance GPUs restricted my ability to conduct extensive fine-tuning.
 
-Link to my collab-file : https://github.com/Aniket2241/DINO-pedestrian/blob/main/Dino.ipynb
+Link to my colab-file : https://github.com/Aniket2241/DINO-pedestrian/blob/main/Dino.ipynb
 
 
 
